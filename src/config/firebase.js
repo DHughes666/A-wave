@@ -13,13 +13,13 @@ import { getAuth } from 'firebase/auth';
 // };
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCdes8bQ3tEcKONxXeZXHZ0NUZHCK9bNTw",
-  authDomain: "timetablo2.firebaseapp.com",
-  projectId: "timetablo2",
-  storageBucket: "timetablo2.appspot.com",
-  messagingSenderId: "1058659068971",
-  appId: "1:1058659068971:web:8fa143ff196be7c317ce6e",
-  measurementId: "G-3CLLPK704Q"
+  apiKey: "AIzaSyAj2fO7QR6em5VPpusDA4CK4lJj8Q5bEK0",
+  authDomain: "deepfun010.firebaseapp.com",
+  projectId: "deepfun010",
+  storageBucket: "deepfun010.appspot.com",
+  messagingSenderId: "1072763976125",
+  appId: "1:1072763976125:web:71140b4a8def80d80cbad4",
+  measurementId: "G-YZBY4RGV54"
 };
 
 const app = initializeApp(firebaseConfig);
